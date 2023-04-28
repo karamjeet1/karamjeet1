@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karamjeet1
-- 👀 I’m interested in ...python programming
-- 🌱 I’m currently learning ...Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Java programming
+- 🌱 I’m currently learning ...Spring Boot
+- 💞️ I’m looking to collaborate on ...reputed Softwere Developer company
+- 📫 How to reach me ... karamjeetkaladhungi@gmail.com
 
 <!---
 karamjeet1/karamjeet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
